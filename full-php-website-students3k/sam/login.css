@@ -1,0 +1,91 @@
+#login {
+}
+
+#login form {
+	border: none;
+}
+
+#login fieldset {
+	border: none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	line-height: 1.5em;
+}
+
+#login legend {
+	display: none;
+}
+
+#login label {
+	font-size: 8px;
+	font-weight: bold;
+	color: #4B4B4A;
+}
+
+#login input {
+	margin-bottom: 0px;
+	padding: 2px 5px;
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+}
+
+#contact1{
+	padding: 2px;
+	border:1px solid #CBEDFE;
+	color:#777;
+}
+#contact1:hover{
+	background-color: #FDFDD5;
+}
+#inputtext1, #inputtext2 {
+	width: 190px;
+	height: 15px;
+	padding: 2px;
+	border:1px solid #CBEDFE;
+	color:#777;
+}
+#inputtext1:hover, #inputtext2:hover {
+	background-color: #FDFDD5;
+}
+
+#inputsubmit1 {
+	background: #4B4B4A;
+	color: #CCCCCC;
+	border:1px solid #eee;
+    font-size: 10px;
+}
+#inputsubmit1:hover {
+	background: #00164E;
+	color: #CCCCCC;
+}
+
+.forgot {
+}
+.forgot ul {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	list-style: none;
+	line-height: 5px;
+
+}
+
+.forgot ul li {
+	margin-left: -40px;
+    margin-bottom: 5px;
+	font-size: 8px;
+}
+
+.forgot ul li a{
+	text-decoration: none;
+    color: #2EBDE7;
+}
+
+.forgot ul li a:hover{
+	background: #2D99C4;
+	color: #ffffff;
+}
+
+
+.forgot small {
+	font-size: 10px;
+	color: #808C96;
+}
